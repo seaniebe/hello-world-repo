@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: hello-world-service
-Implementation-Version: 1.0-SNAPSHOT
-Built-By: sdavey
-Implementation-Vendor-Id: hello-world
-Build-Jdk: 1.8.0_25
-Created-By: Maven Integration for Eclipse
-
